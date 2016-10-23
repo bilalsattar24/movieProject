@@ -1,7 +1,7 @@
 #Author: Bilal Sattar
-
 import media
 import freshTomatoes
+
 
 #inception object
 inception = media.Movie("Inception", "A movie about dreams inside of dreams", 
@@ -42,8 +42,7 @@ revenant = media.Movie("The Revenant",
 "https://www.youtube.com/watch?v=LoebZZ8K5N0")
 
 #create list of movie objects
-movies=[inception, jurassicWorld, nowYouSeeMe, 
-        darkKnight, catchMeIfYouCan, revenant]
+movies=[inception, jurassicWorld, nowYouSeeMe, darkKnight, catchMeIfYouCan, revenant]
 
 #call open_movies_page from freshTomatoes.py
 freshTomatoes.open_movies_page(movies)
