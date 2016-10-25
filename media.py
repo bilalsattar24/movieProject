@@ -19,7 +19,7 @@ __init__ - Constructs the movie object with arguments provided
 #construct
 class Movie():
     def __init__(self, movieTitle, movieStory, movieImage, movieTrailer):
-        self.title = movieTitle
-        self.storyline = movieStory
-        self.poster_image_url = movieImage
-        self.trailer_youtube_url = movieTrailer
+        self.title = movieTitle #set title
+        self.storyline = movieStory # set storyline
+        self.poster_image_url = movieImage #set image url for box art
+        self.trailer_youtube_url = movieTrailer #set youtube trailer url
