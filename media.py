@@ -1,5 +1,6 @@
 """
-Author - Bilal Sattar
+Author - Bilal Sattar 10/24/16
+Udacity Full Stack
 
 This class represents a movie object.
 
