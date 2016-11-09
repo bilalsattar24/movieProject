@@ -1,6 +1,8 @@
 # movieProject
 Udacity Nanodegree
+
 Author: Bilal Sattar
+
 Project 1 - Movie Site
 
 This software will use the freshTomatoes.py module provided by Udacity.
